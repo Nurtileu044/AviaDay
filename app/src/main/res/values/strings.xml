@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AviaDay</string>
+
+    <string name="next">Далее</string>
+    <string name="skip">Пропустить</string>
+
+    <string name="onboard_accounting_title">Бухгалтерия</string>
+    <string name="onboard_accounting_body">Оплата услуг и взносов, просмотр баланса счета, запрос на акт сверки</string>
+    <string name="onboard_services_title">Заказ услуг</string>
+    <string name="onboard_services_body">Отправлять заявки и общение с АДС</string>
+    <string name="onboard_ads_title">Размещение объявлений</string>
+    <string name="onboard_ads_body">Отправлять заявки и общение с АДС</string>
+    <string name="onboard_news_title">Новости</string>
+    <string name="onboard_news_body">Новости вашего дома, органа управления, коммунальных служб и Акимата</string>
+    <string name="onboard_votes_title">Голосование</string>
+    <string name="onboard_votes_body">Голосование и инициативы по улучшению состояния вашего имущества</string>
+    <string name="start">Старт</string>
+</resources>
